@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: url("./images/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  margin: 6px;
+  color: white;
+}
+
+.w-40 {
+  width: 40%;
+}
+
+section {
+  padding: 50px 0px;
+}
+
+p {
+  margin: 0;
+}
+
+.react-swipeable-view-container {
+  transition: transform 0.35s cubic-bezier(0.15, 0.3, 0.25, 1) 0s !important;
+}

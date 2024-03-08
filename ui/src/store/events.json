@@ -1,0 +1,213 @@
+[
+    {
+        "table_info": {
+            "date": "2023-03-18",
+            "event": "LADANIVA Live Concert",
+            "genre": "Music",
+            "icon": "https://s1.ticketm.net/dam/c/548/5fefbd1c-973b-4b0e-9b2e-d78e4ce37548_106111_EVENT_DETAIL_PAGE_16_9.jpg",
+            "id": "vvG1iZ9bleOes2",
+            "time": "19:00:00",
+            "venue": "Alex Theatre"
+        },
+        "id": "vvG1iZ9bleOes2",
+        "title": "Los Angeles Lakers vs. Golden State Warriors",
+        "info": {
+          "date": { "localDate": "2023-02-20", "localTime": "" },
+          "artists": ["Los Angeles Lakers", "Golden State Warriors"],
+          "venue": "Crypto.com Arena",
+          "genres": ["Basketball", "NBA", "Sports", "Group", "Team"],
+          "price_range": { "min": "170", "max": "1560" },
+          "ticket_status": "onsale",
+          "seat_map":
+            "https://maps.ticketmaster.com/maps/geometry/3/event/09005E3AC45E700C/staticImage?type=png&systemId=HOST",
+          "buy_ticket_at": "https://www.ticketmaster.com"
+        },
+        "artists": [
+          {
+            "name": "Artist Name1",
+            "popularity": "60",
+            "followers": 1214655,
+            "spotify_link": "spotify",
+            "albums": [
+              "https://maps.ticketmaster.com/maps/geometry/3/event/09005E3AC45E700C/staticImage?type=png&systemId=HOST",
+              "https://maps.ticketmaster.com/maps/geometry/3/event/09005E3AC45E700C/staticImage?type=png&systemId=HOST",
+              "https://maps.ticketmaster.com/maps/geometry/3/event/09005E3AC45E700C/staticImage?type=png&systemId=HOST"
+            ]
+          },
+          {
+            "name": "Artist Name2",
+            "popularity": "75",
+            "followers": 1296555,
+            "spotify_link": "spotify",
+            "albums": [
+              "https://content.resale.ticketmaster.com/maps/3080-1-1-main.gif",
+              "https://content.resale.ticketmaster.com/maps/3080-1-1-main.gif",
+              "https://content.resale.ticketmaster.com/maps/3080-1-1-main.gif"
+            ]
+          }
+        ],
+        "venue": {
+          "name": "Comerica Park",
+          "address": "2100 Woodward Ave, Detroit, Michigan",
+          "phone": "(313) 983-6606",
+          "open_hours": "",
+          "rules": { "general": "", "child": "" },
+          "google_map_link": ""
+        },
+        "facebook_post": {},
+        "twitter_tweet": {}
+    },
+    {
+        "table_info":{"date": "2023-03-18",
+        "event": "Kangdaniel Concert First Parade In Los Angeles",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/a/8a1/3a521d62-c18d-45bc-81f9-c50258d978a1_1839391_RECOMENDATION_16_9.jpg",
+        "id": "vvG10Z9pJNEgrR",
+        "time": "19:00:00",
+        "venue": "The Wiltern"}
+    },
+    {
+        "table_info":{"date": "2023-04-29",
+        "event": "Ne-Yo, Robin Thicke & Mario Live In Concert!",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/a/e7a/485328fc-1007-4f91-b669-c0cbf6a61e7a_176551_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "id": "vvG10Z9N5ZwpeM",
+        "time": "20:00:00",
+        "venue": "Greek Theatre"}
+    },
+    {
+        "table_info":{"date": "2023-05-13",
+        "event": "Game of Thrones Live Concert Experience featuring Ramin Djawadi",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/a/63a/1696af26-9e8d-4ba5-a33b-294cb937963a_1130821_RECOMENDATION_16_9.jpg",
+        "id": "vvG1iZ99LZJoqL",
+        "time": "20:00:00",
+        "venue": "Hollywood Bowl"}
+    },
+    {
+        "table_info":{"date": "2023-08-11",
+        "event": "Big Time Rush: Can't Get Enough Tour",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/a/6f3/ee7d0d93-c4e0-418e-882d-f80c1761e6f3_RETINA_PORTRAIT_16_9.jpg",
+        "id": "vvG10Z9ND5-fPx",
+        "time": "19:00:00",
+        "venue": "Kia Forum"}
+    },
+    {
+        "table_info":{"date": "2023-05-09",
+        "event": "Caetano Veloso",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/a/8b0/4688f32b-67e0-43d5-82cd-bfabf81238b0_148161_RETINA_LANDSCAPE_16_9.jpg",
+        "id": "Z7r9jZ1Ad88by",
+        "time": "20:00:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-03-16",
+        "event": "Ziggy Marley",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/a/e58/ee6a55f5-52ec-482d-98ff-dbc45b1a2e58_1309651_CUSTOM.jpg",
+        "id": "Z7r9jZ1Ad88_f",
+        "time": "20:00:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-03-17",
+        "event": "Ziggy Marley",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/a/e58/ee6a55f5-52ec-482d-98ff-dbc45b1a2e58_1309651_CUSTOM.jpg",
+        "id": "Z7r9jZ1Ad88_v",
+        "time": "20:00:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-04-16",
+        "event": "Paul Jacobs",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/c/f7b/ef64d601-8740-43cd-86ea-ed9b392e4f7b_105961_RETINA_LANDSCAPE_16_9.jpg",
+        "id": "Z7r9jZ1Ad3fjN",
+        "time": "19:30:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-05-10",
+        "event": "Vikingur Olafsson",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RECOMENDATION_16_9.jpg",
+        "id": "Z7r9jZ1Ad8txe",
+        "time": "20:00:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-04-19",
+        "event": "Helene Grimaud",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/c/f7b/ef64d601-8740-43cd-86ea-ed9b392e4f7b_105961_RETINA_PORTRAIT_16_9.jpg",
+        "id": "Z7r9jZ1Ad_bba",
+        "time": "20:00:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-04-21",
+        "event": "Rodrigo Amarante",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/a/d3b/c601c5a8-fda2-4781-8d63-90619f62ad3b_1546601_ARTIST_PAGE_3_2.jpg",
+        "id": "Z7r9jZ1AdqZOO",
+        "time": "20:00:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-05-31",
+        "event": "Helene Grimaud",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/c/f7b/ef64d601-8740-43cd-86ea-ed9b392e4f7b_105961_RETINA_PORTRAIT_16_9.jpg",
+        "id": "Z7r9jZ1Ad3fjw",
+        "time": "20:00:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-03-07",
+        "event": "Regina Spektor",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/a/689/fb51f5bd-39b8-4560-aefd-1f4b02984689_1860721_RECOMENDATION_16_9.jpg",
+        "id": "Z7r9jZ1Adfk16",
+        "time": "20:30:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-03-15",
+        "event": "Hilary Hahn",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/c/518/83a05c63-479c-4f7e-a7aa-1932aab77518_105461_TABLET_LANDSCAPE_16_9.jpg",
+        "id": "Z7r9jZ1Ad3fjK",
+        "time": "20:00:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-03-12",
+        "event": "Igor Levit",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/c/518/83a05c63-479c-4f7e-a7aa-1932aab77518_105461_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "id": "Z7r9jZ1AdoAZ3",
+        "time": "19:30:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-04-02",
+        "event": "Herbie Hancock",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/a/52d/d29e3df3-8eb5-4275-8832-579b9b58e52d_1441751_CUSTOM.jpg",
+        "id": "Z7r9jZ1Ad8xk7",
+        "time": "19:30:00",
+        "venue": "Walt Disney Concert Hall"}
+    },
+    {
+        "table_info":{"date": "2023-05-23",
+        "event": "Chamber Music Series",
+        "genre": "Music",
+        "icon": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_RECOMENDATION_16_9.jpg",
+        "id": "Z7r9jZ1Ad3fjY",
+        "time": "20:00:00",
+        "venue": "Walt Disney Concert Hall"}
+    }
+]

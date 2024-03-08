@@ -1,0 +1,139 @@
+.eventcard {
+  background-color: rgba(224, 224, 224, 0.274);
+  backdrop-filter: blur(10px);
+  margin: 0px auto;
+  color: white;
+}
+
+.eventcard__header {
+  margin: 0;
+  padding: 20px 0px;
+  justify-content: center;
+  align-items: center;
+}
+
+.eventcard__title {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+  font-size: 1.75rem;
+  font-weight: 500;
+}
+
+.info_item {
+  margin: 8px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.info_item__field {
+  text-align: center;
+  /* margin: 0 auto; */
+  /* width: fit-content; */
+  color: #90f3da;
+  font-size: 1.15rem;
+  font-weight: 450;
+  padding: 2px 0px;
+}
+
+.info_item__value {
+  /* margin: 0 auto; */
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  /* width: fit-content; */
+  padding: 2px 0px;
+}
+
+.info_item a {
+  color: rgb(40, 104, 213);
+}
+
+.info_item a:hover {
+  color: rgb(40, 104, 213);
+}
+
+.tablist {
+  display: flex;
+  justify-content: center !important;
+  background: #3e8e7b;
+}
+
+.tablist__item {
+  color: white !important;
+  text-transform: none !important;
+  /* padding: 5px 50px !important; */
+  font-weight: normal !important;
+  width: 20%;
+}
+
+.tablist__item--active {
+  font-weight: bold !important;
+}
+
+.tab__content {
+  padding: 10px 50px !important;
+}
+
+.artist__name {
+  text-align: center;
+  margin: 0 auto;
+  color: #90f3da;
+  font-size: 1.25rem;
+}
+
+.artist__field_name {
+  text-align: center;
+  /* margin: 5px auto; */
+  margin: 0;
+  padding: 10px 0px;
+  color: #90f3da;
+  font-size: 1.15rem;
+}
+
+.artist__field_value {
+  display: flex;
+  justify-content: center;
+  /* text-align: center; */
+  /* margin: 5px auto; */
+  margin: 0;
+  padding: 10px 0px;
+  font-size: 16px;
+}
+
+.artist__album {
+  color: #90f3da;
+  font-size: 14px;
+}
+
+.artist__album_container {
+  color: #90f3da;
+}
+
+.artist__image {
+  margin: 8px auto;
+  aspect-ratio: 1/1;
+  width: 90%;
+  /* height: 200px; */
+  /* object-fit: cover; */
+  border-radius: 50%;
+}
+
+.album__image {
+  aspect-ratio: 1/1;
+}
+
+.fav_icon {
+  min-width: 40px;
+  max-width: 40px;
+  max-height: 40px;
+  min-height: 40px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

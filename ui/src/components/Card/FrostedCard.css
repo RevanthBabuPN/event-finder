@@ -1,0 +1,21 @@
+.card-frosted {
+  background-color: rgba(224, 224, 224, 0.274);
+  backdrop-filter: blur(10px);
+  padding: 40px 20px;
+  /* margin: 0px 40px; */
+  border-radius: 15px;
+}
+
+.card-title {
+  font-family: "Merriweather", serif;
+  margin: 0;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.card-hr {
+  margin: 10px 0px 25px 0px;
+  border-top: 1px solid white;
+  opacity: 1;
+}

@@ -1,0 +1,8 @@
+span.show-more-less-clickable {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.content {
+  text-align: center;
+}

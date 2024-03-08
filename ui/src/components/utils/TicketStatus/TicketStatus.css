@@ -1,0 +1,22 @@
+.ticket_status {
+  border: none;
+  border-radius: 8px;
+  padding: 4px 12px;
+  width: fit-content;
+}
+
+.ticket_status--onsale {
+  background-color: green;
+}
+.ticket_status--offsale {
+  background-color: red;
+}
+.ticket_status--canceled {
+  background-color: black;
+}
+.ticket_status--postponed {
+  background-color: orange;
+}
+.ticket_status--rescheduled {
+  background-color: orange;
+}

@@ -1,0 +1,19 @@
+.asterisk {
+  color: rgb(255, 0, 0);
+  font-size: 16px;
+  font-weight: 700;
+}
+
+label {
+  color: rgb(162 208 246);
+}
+
+/* .MuiLoadingButton-root {
+  color: rgba(0, 0, 0, 0.75);
+} */
+
+.MuiAutocomplete-loading {
+  padding: 8px 4px !important;
+  align-items: center;
+  display: flex;
+}
